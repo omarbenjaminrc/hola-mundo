@@ -7,3 +7,6 @@ esta linea es para saber como actualizar los readme desde github mismo
 
 otra linea para practicar el cambir el mensaje del commit
 
+
+esta es una linea que se creo para hacer el ejemplo de como se puede crear una rama en el proyecto desde la maquina local hasta el repositorio remoto 
+esta es una linea que se creo para hacer el ejemplo de como se puede crear una rama en el proyecto desde la maquina local hasta el repositorio remoto 
